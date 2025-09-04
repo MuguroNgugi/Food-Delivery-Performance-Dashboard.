@@ -7,7 +7,8 @@ Management wants to understand customer behaviour, restaurant performance and op
 The goal is to identify trends in sales, loyalty churn, and delivery outcomes to improve decesion-making and customer satisfaction
 
 ## Dataset Used
-- <a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Foodpanda%20Analysis%20Dataset..xlsx"> Dataset </a>
+- <a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Foodpanda%20Analysis%20Dataset..xlsx"> Raw Dataset </a>
+- <a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Final%20Analysis.xlsx"> Final Datset </a>
 
 ## Key Questions and KPIs
 ### Customer Demographics
@@ -45,6 +46,4 @@ The goal is to identify trends in sales, loyalty churn, and delivery outcomes to
 3. View Charts to gain insights into the business performance
 4. Use the insights to optimize sales and improve operations
 
-## Final Dataset
-- <a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Final%20Analysis.xlsx"> </a>
 
