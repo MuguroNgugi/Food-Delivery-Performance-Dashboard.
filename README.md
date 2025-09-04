@@ -1,10 +1,10 @@
-# Food-Delivery-Performance-Dashboard.
+<img width="9908" height="133" alt="image" src="https://github.com/user-attachments/assets/20d81d03-a87a-4308-b13f-2b4fa9ab5fe1" /># Food-Delivery-Performance-Dashboard.
 Excel dashboard analyzing food delivery performance, customer demographics, and sales insights.
 
 ## Problem Statement
-A chain of Restaurants is experiencing inconsistent sales, varying customers loyalty and delivery challenges across different cities.
-Management wants to understand customer behaviour, restaurant performance and operational bottlenck.
-The goal is to identify trends in sales, loyalty churn, and delivery outcomes to improve decesion-making and customer satisfaction
+A chain of Restaurants is experiencing inconsistent sales, varying customers loyalty and delivery challenges across different cities. Management wants to understand customer behavior, restaurant performance and operational bottleneck. The goal is to identify trends in sales, loyalty churn, and delivery outcomes to improve decision-making and customer satisfaction
+
+
 
 ## Dataset Used
 - <a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Foodpanda%20Analysis%20Dataset..xlsx"> Raw Dataset </a>
