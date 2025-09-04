@@ -34,6 +34,17 @@ The goal is to identify trends in sales, loyalty churn, and delivery outcomes to
 <a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Dashboard%20Screenshot.png"> </a>
 <img src="Dashboard Screenshot.png" alt="Dashboard Screenshot" width="1500"/>
 
+## Tech Stack
+* Microsoft Excel (Pivot Tables, Charts)
+* Data Visualization (Excel Dashboards)
+* Power Point (Report Writting)
+
+## How To Use
+1. Open the Excel File and navigate to the dashboard sheet
+2. Use slicer to analyze sales by location (SELECT LOCATION)
+3. View Charts to gain insights into the business performance
+4. Use the insights to optimize sales and improve operations
+
 
 
 
