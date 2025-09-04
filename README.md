@@ -24,3 +24,12 @@ The goal is to identify trends in sales, loyalty churn, and delivery outcomes to
 ### Customer Retention
 1. What percentage of customers are retained?
 
+### Delivery Perfomance
+1. What is the On Time Delivery Rate vs. Delayed or Cancelled Orders?
+
+### Payment Preferences
+1. Which payment method to customers prefer?
+
+## Dashboard Screenshot
+
+
