@@ -31,5 +31,6 @@ The goal is to identify trends in sales, loyalty churn, and delivery outcomes to
 1. Which payment method to customers prefer?
 
 ## Dashboard Screenshot
+- <a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Dashboard%20Screenshot.png"> Dashboard <?a>
 
 
