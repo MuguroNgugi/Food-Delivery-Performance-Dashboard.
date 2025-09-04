@@ -32,5 +32,8 @@ The goal is to identify trends in sales, loyalty churn, and delivery outcomes to
 
 ## Dashboard Screenshot
 - <a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Dashboard%20Screenshot.png"> Dashboard </a>
+- <img src="Dashboard Screenshot.png" alt="Dashboard Screenshot" width="800"/>
+
+
 
 
