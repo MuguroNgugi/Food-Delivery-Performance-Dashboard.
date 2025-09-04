@@ -8,3 +8,19 @@ The goal is to identify trends in sales, loyalty churn, and delivery outcomes to
 
 ## Dataset Used
 - <a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Foodpanda%20Analysis%20Dataset..xlsx"> Dataset </a>
+
+## Key Questions and KPIs
+### Customer Demographics
+1. What is the distibution of customers by Gender, Age Group and City?
+
+### Sales Perfomance
+1. Which Dish Category generates the most revenue?
+2. Which restaurants performs the best in terms of sales?
+
+### Order and Revenue Metrics
+1. What is the Total Revenue, Total Orders and Average Order Value?
+2. How does sales perfomance vary by Month, Day of Week and Year?
+
+### Customer Retention
+1. What percentage of customers are retained?
+
