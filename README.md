@@ -46,5 +46,5 @@ The goal is to identify trends in sales, loyalty churn, and delivery outcomes to
 4. Use the insights to optimize sales and improve operations
 
 ## Final Dataset
-<a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Final%20Analysis.xlsx"> </a>
+- <a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Final%20Analysis.xlsx"> </a>
 
