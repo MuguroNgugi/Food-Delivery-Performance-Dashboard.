@@ -45,6 +45,9 @@ The goal is to identify trends in sales, loyalty churn, and delivery outcomes to
 3. View Charts to gain insights into the business performance
 4. Use the insights to optimize sales and improve operations
 
+## Final Dataset
+
+
 
 
 
